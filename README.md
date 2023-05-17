@@ -2,5 +2,6 @@
 URL Shortener made using PostgreSQL , NODE , EXPRESS , REACT
 
 Watch the video :- 
-76117268/239011893-84786f1e-7e17-47b7-b57a-d41aab444cb2.mp4
+
+https://github.com/nishantpuri10/PERN_Url_Shortener/assets/76117268/8598ab47-59ab-43c5-8c04-e1edd8e16f9c
 
